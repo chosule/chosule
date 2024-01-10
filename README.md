@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="GIF" src="./giphy.gif" width="330" height="280" border="1px solid red"/>
+<img alt="GIF" src="./giphy.gif" width="330" height="280" style="borer-radius:13px"/>
 </div>
 
 <div>
