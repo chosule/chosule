@@ -20,7 +20,7 @@
 
 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosule&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosule&show_icons=true&theme=transparent)
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chosule&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
