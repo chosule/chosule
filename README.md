@@ -1,4 +1,6 @@
+<div>
 <img align="right" alt="GIF" src="./giphy.gif" width="500" height="320" />
+</div>
 
 <div>
   <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm chosule</h2>
