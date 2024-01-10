@@ -23,7 +23,8 @@
 &nbsp;
 <div align="center">
   <a href="https://velog.io/@chosule/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/My Blog-783BF9?style=flat-square&logo=buefy&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/My Blog-783BF9?style=flat-square&logo=buefy&logoColor=white"/></a>
+  <a href="https://mail.google.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosule&show_icons=true&theme=transparent)-->
