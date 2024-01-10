@@ -8,6 +8,7 @@
 </div>
 
 <h3 align="center">Stack🛠</h3>
+&nbsp;
 <div align="center">
   <a href="https://velog.io/@chosule/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
