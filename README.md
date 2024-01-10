@@ -19,10 +19,12 @@
 </div>
 
 &nbsp;
-<h3 align="center">🍑ME🍑</h3>
+<h3 align="center">ME🍑</h3>
 &nbsp;
-<a href="https://velog.io/@chosule/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+<div align="center">
+  <a href="https://velog.io/@chosule/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/My Blog-783BF9?style=flat-square&logo=buefy&logoColor=white"/></a>
+</div>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosule&show_icons=true&theme=transparent)-->
 <div align="center">
