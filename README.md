@@ -11,3 +11,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosule&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chosule)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chosule&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
