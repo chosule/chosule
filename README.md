@@ -7,19 +7,18 @@
   <h4 align="center">새로운 도전을 즐기며, 코드의 완성도를 높이는 것에 흥미가 있습니다.</h4>
 </div>
 
-<h3>Stack🛠</h3>
-<a href="https://velog.io/@chosule/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/tailwindCss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
+<h3 align="center">Stack🛠</h3>
+<div align="center">
+  <a href="https://velog.io/@chosule/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/tailwindCss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>  
+</div>
 
 
-
-
-<p align="center" > <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chosule&show_icons=true&theme=transparent)-->
 <div align="center">
