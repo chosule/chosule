@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+
 <div>
   <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm chosule</h2>
   <h4 align="center">새로운 도전을 즐기며, 코드의 완성도를 높이는 것에 흥미가 있습니다.</h4>
